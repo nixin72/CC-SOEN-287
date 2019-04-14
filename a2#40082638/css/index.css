@@ -1,0 +1,134 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background: url(http://thepatternlibrary.com/img/ao.gif) repeat;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border: 15px dashed black;
+    margin: 15px 10%;
+}
+
+th {
+    padding: 12px;
+    color: #40434B;
+    background: #8B8C94;
+}
+
+.col1 li {
+    list-style-type: upper-roman;
+}
+
+#row2 .col2 > ol > li {
+    padding-top: -10px;
+    text-align:inherit;
+    list-style-type: upper-latin;
+}
+
+.imageList > li {
+    list-style-image: url('../images/list-style-image1.png');
+}
+
+.noImage > li {
+    list-style-image: none;
+    list-style-type:disc;
+}
+
+#row3 .col2 ol li:first-child ul li {
+    color: goldenrod;
+}
+
+#row3 .col2 ol > li:last-child li {
+    list-style-image: url('../images/list-style-image2.png');
+}
+
+#row2 .col2 ol li:first-child > ul > li > ul > li {
+    list-style-type: disc;
+}
+
+#row2 .col1 {
+    background: green;
+    border: thick solid darkgreen;
+}
+
+#row2 .col2 {
+    background: blue;
+    border: thick solid darkblue;
+}
+
+#row3 .col1 {
+    background: red;
+    border: thick solid darkred;
+}
+
+#row3 .col2 {
+    background: yellow;
+    border: thick solid darkgoldenrod;
+}
+
+#row3 .col2 ol li {
+    list-style-type: hiragana;
+}
+
+#row3 .col2 ol li:first-child ul li {
+    list-style-type: square;
+}
+
+#row2 .col2 > ol > li:last-child > ul > li {
+    color: darkblue;
+}
+
+#header {
+    color: #40434B;
+    border: 10px solid #40434B; 
+    border-radius: 5px;
+    padding: 10px;
+    width: 40%;
+    background: #8B8C94;
+    margin: 0 10%;
+}
+
+footer {
+    border-top: thick solid black;
+    color: white;   
+    flex-shrink: 0;
+    height: 85px;
+    width: 150%;
+    padding-left: 15px;
+    margin-left: -10px;
+    background: linear-gradient( 40deg, #40434B 50%, #8B8C94 50% );
+    display: flex;
+    width: 100%;
+    padding: 2%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+
+}
+
+footer a:hover {
+    color: #DDD;
+    text-decoration: underline;
+}
+
+footer a:visited {
+    color: white;
+}
+
+footer div:last-child {
+    width: 80%;
+    text-align: right;
+    float: right;
+}
+
+.content {
+    flex: 1 0 auto;
+}

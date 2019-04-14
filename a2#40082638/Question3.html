@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment 02 - Question 3</title>
+    <script>
+        let multiples = {};
+        for (let a = 1 ; a <= 5 ; a++) {
+            multiples[a] = {};
+            for (let b = 1 ; b <= 5 ; b++) {
+                multiples[a][b] = a*b;
+            }
+        }
+
+        let table = `
+            <table border="1" width="50%">
+                <tr id="numbers">
+                    <td><strong>number</strong></td>`
+            + Object
+                .keys(multiples)
+                .reduce((a,m) => a+=`<td><strong>${m}</strong></td>`, "")
+            + "</tr>";
+                    
+        Object.keys(multiples).forEach((key) => {
+            let val = multiples[key];
+            let mults = Object.values(val).map(m => `<td>${m}</td>`);
+
+            table += `<tr><td><strong>${key}</strong></td>${mults.join("")}</tr>`;
+        });
+
+        document.write(table + "</table>");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

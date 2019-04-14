@@ -1,0 +1,2070 @@
+[
+  {
+    "_id": "5bfe066e64b9062c7762f7ad",
+    "index": 1000,
+    "maxPeople": 12,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "103 Varick Avenue, Biehle, Quebec, 3638",
+    "price": 1739,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e306bcec0844fcba4",
+    "index": 1001,
+    "maxPeople": 14,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "843 Dean Street, Muir, Quebec, 6345",
+    "price": 1057,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e90cf98ee8494d410",
+    "index": 1002,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Laurentides",
+    "address": "591 Mill Street, Wilsonia, Quebec, 2177",
+    "price": 960,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e186676536be905e4",
+    "index": 1003,
+    "maxPeople": 5,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "255 Hornell Loop, Tooleville, Quebec, 1508",
+    "price": 1188,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e395e6641c3dcf950",
+    "index": 1004,
+    "maxPeople": 13,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "120 Main Street, Beason, Quebec, 4755",
+    "price": 1492,
+    "amenities": [
+      [
+        "Launromat",
+        "Outdoor parking",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e13e86be86dc71b59",
+    "index": 1005,
+    "maxPeople": 5,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Laurentides",
+    "address": "826 Alabama Avenue, Selma, Quebec, 6943",
+    "price": 2274,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ef2f5e4f6d0d7ceaf",
+    "index": 1006,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Quebec City",
+    "address": "917 President Street, Noblestown, Quebec, 8905",
+    "price": 1008,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e5ec9e34f3b513b34",
+    "index": 1007,
+    "maxPeople": 5,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Laurentides",
+    "address": "350 Nevins Street, Tyro, Quebec, 634",
+    "price": 1712,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e5bd819a5b31c785f",
+    "index": 1008,
+    "maxPeople": 7,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "465 Richardson Street, Coventry, Quebec, 4235",
+    "price": 798,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e317c5d83abfdbf8b",
+    "index": 1009,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "613 Jaffray Street, Longbranch, Quebec, 707",
+    "price": 723,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e09fe276a77ebcd1e",
+    "index": 1010,
+    "maxPeople": 7,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "156 Dumont Avenue, Garnet, Quebec, 1937",
+    "price": 2219,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e44a198b67a2b57de",
+    "index": 1011,
+    "maxPeople": 12,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Quebec City",
+    "address": "111 Grove Street, Goochland, Quebec, 3290",
+    "price": 2256,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ec3f459990a2f0eed",
+    "index": 1012,
+    "maxPeople": 4,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Magog",
+    "address": "518 Colonial Road, Stollings, Quebec, 6101",
+    "price": 1792,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "Outdoor parking",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eb2ec4c115b4d0537",
+    "index": 1013,
+    "maxPeople": 6,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "687 Barbey Street, Zortman, Quebec, 5297",
+    "price": 1570,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e898332b4af2af6c6",
+    "index": 1014,
+    "maxPeople": 5,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "617 Farragut Place, Shawmut, Quebec, 4799",
+    "price": 1951,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ed8449b2100593687",
+    "index": 1015,
+    "maxPeople": 7,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Gatineau",
+    "address": "517 Amherst Street, Clay, Quebec, 535",
+    "price": 1828,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3ea66aae38dd2287",
+    "index": 1016,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "922 Jamaica Avenue, Canby, Quebec, 4389",
+    "price": 1767,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e0b081dbfb0b84ff3",
+    "index": 1017,
+    "maxPeople": 1,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Laurentides",
+    "address": "595 Lamont Court, Foxworth, Quebec, 5805",
+    "price": 752,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e31aa1b7d4f743efe",
+    "index": 1018,
+    "maxPeople": 15,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Magog",
+    "address": "300 Norwood Avenue, Rodanthe, Quebec, 2507",
+    "price": 1811,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eb570585578bf3219",
+    "index": 1019,
+    "maxPeople": 2,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "236 Luquer Street, Zeba, Quebec, 5144",
+    "price": 2150,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e30c945240604b565",
+    "index": 1020,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "357 Croton Loop, Bridgetown, Quebec, 8390",
+    "price": 2377,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e59ab5d716a88018e",
+    "index": 1021,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Quebec City",
+    "address": "574 Waldorf Court, Northridge, Quebec, 8842",
+    "price": 1828,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eab54c36b05d2c229",
+    "index": 1022,
+    "maxPeople": 6,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Magog",
+    "address": "501 Grand Street, Independence, Quebec, 7297",
+    "price": 2219,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e6a620d101dc6c48c",
+    "index": 1023,
+    "maxPeople": 7,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Mont-Tremblant",
+    "address": "784 Joval Court, Cutter, Quebec, 7604",
+    "price": 788,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e482434e2eb79d5e3",
+    "index": 1024,
+    "maxPeople": 14,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Gatineau",
+    "address": "535 Judge Street, Delwood, Quebec, 3119",
+    "price": 788,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e6879ccd6d6737e26",
+    "index": 1025,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "628 Dahl Court, Waumandee, Quebec, 4858",
+    "price": 1986,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e9fd40d30723ebbab",
+    "index": 1026,
+    "maxPeople": 9,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "891 Cozine Avenue, Goodville, Quebec, 2988",
+    "price": 524,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e60f46924952afc30",
+    "index": 1027,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "566 Hart Place, Chautauqua, Quebec, 7758",
+    "price": 1265,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4104a69891327bd2",
+    "index": 1028,
+    "maxPeople": 3,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "972 Meserole Street, Belva, Quebec, 5828",
+    "price": 660,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e83c583e1b9ab98d4",
+    "index": 1029,
+    "maxPeople": 3,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "703 Cameron Court, Saticoy, Quebec, 5518",
+    "price": 2248,
+    "amenities": [
+      [
+        "Launromat",
+        "BBQ",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e6fd8db51c17c3b69",
+    "index": 1030,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "748 Brown Street, Fedora, Quebec, 2361",
+    "price": 699,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e9a6ed3aa60129524",
+    "index": 1031,
+    "maxPeople": 1,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "836 Cass Place, Klagetoh, Quebec, 7653",
+    "price": 1774,
+    "amenities": [
+      [
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4661ff9b9545f729",
+    "index": 1032,
+    "maxPeople": 6,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "131 Grant Avenue, Leland, Quebec, 9399",
+    "price": 2135,
+    "amenities": [
+      [
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eaab7a7f0e3dc01f3",
+    "index": 1033,
+    "maxPeople": 13,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Laurentides",
+    "address": "161 Lott Place, Whitestone, Quebec, 4859",
+    "price": 1180,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e87b4327202f35537",
+    "index": 1034,
+    "maxPeople": 2,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "362 Debevoise Street, Taft, Quebec, 348",
+    "price": 2375,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ea6f0acfe9c94b6a3",
+    "index": 1035,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Laurentides",
+    "address": "481 John Street, Waukeenah, Quebec, 3832",
+    "price": 973,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e01da6bddf43d7795",
+    "index": 1036,
+    "maxPeople": 3,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Laurentides",
+    "address": "485 Paerdegat Avenue, Kempton, Quebec, 269",
+    "price": 2169,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e664160af2ae8861c",
+    "index": 1037,
+    "maxPeople": 5,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Mont-Tremblant",
+    "address": "118 Mermaid Avenue, Shepardsville, Quebec, 5628",
+    "price": 696,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e12b35271a70a16e5",
+    "index": 1038,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Mont-Tremblant",
+    "address": "166 Williamsburg Street, Brambleton, Quebec, 2149",
+    "price": 2432,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e796e8b433cc11088",
+    "index": 1039,
+    "maxPeople": 9,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "562 Wogan Terrace, Salunga, Quebec, 2792",
+    "price": 801,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ef4f14edcd1a263b8",
+    "index": 1040,
+    "maxPeople": 6,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "646 Hampton Avenue, Bethany, Quebec, 8429",
+    "price": 1747,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ea15da9281ca56b03",
+    "index": 1041,
+    "maxPeople": 3,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "721 McKibbin Street, Toftrees, Quebec, 8620",
+    "price": 1618,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e8e71b7777aed27b1",
+    "index": 1042,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "538 Rutland Road, Cade, Quebec, 5447",
+    "price": 849,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "BBQ",
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e5a758a9225dda0c8",
+    "index": 1043,
+    "maxPeople": 9,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "565 Sands Street, Edmund, Quebec, 7023",
+    "price": 2262,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ed8060fed88cbd0e6",
+    "index": 1044,
+    "maxPeople": 2,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "574 Granite Street, Mathews, Quebec, 350",
+    "price": 918,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e0537a6d502f33e43",
+    "index": 1045,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Laurentides",
+    "address": "926 Montgomery Street, Romeville, Quebec, 3820",
+    "price": 1161,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e1ed1180dd9a5a2d9",
+    "index": 1046,
+    "maxPeople": 14,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Laurentides",
+    "address": "539 Beverley Road, Concho, Quebec, 529",
+    "price": 1082,
+    "amenities": [
+      [
+        "Launromat",
+        "BBQ",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eeb2d99233a8ee040",
+    "index": 1047,
+    "maxPeople": 14,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Quebec City",
+    "address": "292 Portal Street, Cavalero, Quebec, 9135",
+    "price": 731,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e816234c76395f6aa",
+    "index": 1048,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "564 Estate Road, Olney, Quebec, 368",
+    "price": 2349,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e9a657ee68434aef6",
+    "index": 1049,
+    "maxPeople": 7,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Laurentides",
+    "address": "620 Vermont Street, Sunbury, Quebec, 2081",
+    "price": 1191,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066efaea727cab80cfa4",
+    "index": 1050,
+    "maxPeople": 5,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "996 Noel Avenue, Campo, Quebec, 6388",
+    "price": 1739,
+    "amenities": [
+      [
+        "BBQ",
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e7c4db481ad680432",
+    "index": 1051,
+    "maxPeople": 3,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "310 Fleet Walk, Blanford, Quebec, 2170",
+    "price": 1740,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e996a62995accf07d",
+    "index": 1052,
+    "maxPeople": 13,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "454 Hewes Street, Farmers, Quebec, 2795",
+    "price": 808,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ec8bb93e76dd46117",
+    "index": 1053,
+    "maxPeople": 10,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "910 Alton Place, Grill, Quebec, 488",
+    "price": 1099,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e2867eb431eddec28",
+    "index": 1054,
+    "maxPeople": 4,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "285 Onderdonk Avenue, Winesburg, Quebec, 1629",
+    "price": 711,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "Outdoor parking",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e486d136d5e31eee0",
+    "index": 1055,
+    "maxPeople": 14,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "574 Middleton Street, Fairforest, Quebec, 5241",
+    "price": 2218,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eb68b3fc79d4ee82f",
+    "index": 1056,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Mont-Tremblant",
+    "address": "189 Harman Street, Brethren, Quebec, 3856",
+    "price": 823,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3beb5de4df8cd433",
+    "index": 1057,
+    "maxPeople": 11,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "284 Fulton Street, Berwind, Quebec, 7262",
+    "price": 1868,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e802e41c05672ac8d",
+    "index": 1058,
+    "maxPeople": 11,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Quebec City",
+    "address": "108 Gates Avenue, Caroline, Quebec, 4499",
+    "price": 453,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e9b0513ca61e33cf5",
+    "index": 1059,
+    "maxPeople": 8,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "881 Balfour Place, Crisman, Quebec, 862",
+    "price": 2323,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3b889cf915b61490",
+    "index": 1060,
+    "maxPeople": 15,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "938 Beard Street, Ruckersville, Quebec, 4167",
+    "price": 1495,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e2b62de8e2cee7a58",
+    "index": 1061,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Laurentides",
+    "address": "759 Canda Avenue, Ribera, Quebec, 5747",
+    "price": 875,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e92a58f5613a23f1a",
+    "index": 1062,
+    "maxPeople": 7,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Laurentides",
+    "address": "852 Stockton Street, Marne, Quebec, 9535",
+    "price": 1714,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3053930aa2f8543a",
+    "index": 1063,
+    "maxPeople": 13,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Mont-Tremblant",
+    "address": "259 Kent Street, Graball, Quebec, 5005",
+    "price": 2128,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066efd8173deadb6063e",
+    "index": 1064,
+    "maxPeople": 6,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Mont-Tremblant",
+    "address": "663 Meadow Street, Connerton, Quebec, 6792",
+    "price": 971,
+    "amenities": [
+      [
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eeb4234471a734f78",
+    "index": 1065,
+    "maxPeople": 9,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "838 Taylor Street, Waterview, Quebec, 5285",
+    "price": 579,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e1742a088f28c26af",
+    "index": 1066,
+    "maxPeople": 3,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "924 Bay Avenue, Marbury, Quebec, 4590",
+    "price": 873,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e22356ddc1d0d723e",
+    "index": 1067,
+    "maxPeople": 11,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Gatineau",
+    "address": "945 Ira Court, Blairstown, Quebec, 1014",
+    "price": 1702,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e6ddb1b08649c86d0",
+    "index": 1068,
+    "maxPeople": 12,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Magog",
+    "address": "645 Cedar Street, Watrous, Quebec, 6344",
+    "price": 1313,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e7ecf3ec35b3481ad",
+    "index": 1069,
+    "maxPeople": 4,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Mont-Tremblant",
+    "address": "310 Manhattan Court, Hartsville/Hartley, Quebec, 3754",
+    "price": 1497,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eded4d18f4a6ff005",
+    "index": 1070,
+    "maxPeople": 14,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "480 Maple Avenue, Topanga, Quebec, 3794",
+    "price": 1128,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ebb070829e87fc743",
+    "index": 1071,
+    "maxPeople": 14,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Laurentides",
+    "address": "391 Stewart Street, Forestburg, Quebec, 9663",
+    "price": 1614,
+    "amenities": [
+      [
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e310a83cdfeff319b",
+    "index": 1072,
+    "maxPeople": 10,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "982 Regent Place, Drytown, Quebec, 4990",
+    "price": 1325,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eff0262ba37d880c7",
+    "index": 1073,
+    "maxPeople": 10,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Mont-Tremblant",
+    "address": "296 Gold Street, Elliston, Quebec, 7831",
+    "price": 658,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4ac66e565c73bb87",
+    "index": 1074,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "269 Beayer Place, Tyhee, Quebec, 1895",
+    "price": 1953,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ea03275170f40e2ff",
+    "index": 1075,
+    "maxPeople": 8,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "556 Clarendon Road, Manchester, Quebec, 9529",
+    "price": 1291,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e387874792b7055f4",
+    "index": 1076,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Laurentides",
+    "address": "644 Preston Court, Lloyd, Quebec, 8034",
+    "price": 2279,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4abc007063c7e379",
+    "index": 1077,
+    "maxPeople": 15,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Mont-Tremblant",
+    "address": "979 Girard Street, Darrtown, Quebec, 323",
+    "price": 1099,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e60c01f6083c69ccd",
+    "index": 1078,
+    "maxPeople": 8,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Mont-Tremblant",
+    "address": "961 Rugby Road, Madrid, Quebec, 3452",
+    "price": 414,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e6deed3cdd85036a3",
+    "index": 1079,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "694 Visitation Place, Ladera, Quebec, 3029",
+    "price": 2379,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e19074b25cd0e622a",
+    "index": 1080,
+    "maxPeople": 15,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Quebec City",
+    "address": "847 Grand Avenue, Salix, Quebec, 5822",
+    "price": 1186,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e9af41043f48ad320",
+    "index": 1081,
+    "maxPeople": 11,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "261 Everit Street, Rosedale, Quebec, 6461",
+    "price": 2075,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e63f1d244313b1c73",
+    "index": 1082,
+    "maxPeople": 3,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "377 Commerce Street, Ronco, Quebec, 5602",
+    "price": 2477,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ec73a6d56b9f45aa7",
+    "index": 1083,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Quebec City",
+    "address": "717 Walker Court, Baker, Quebec, 2833",
+    "price": 715,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ed02a0f97f005377b",
+    "index": 1084,
+    "maxPeople": 14,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "415 Halsey Street, Hatteras, Quebec, 380",
+    "price": 2278,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4870ebf4fcf9b0e4",
+    "index": 1085,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Gatineau",
+    "address": "654 Middagh Street, Dawn, Quebec, 1334",
+    "price": 603,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ece3f93196dc93b19",
+    "index": 1086,
+    "maxPeople": 6,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/2",
+    "location": "Magog",
+    "address": "295 Kingston Avenue, Springdale, Quebec, 8678",
+    "price": 1874,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e4c759bc4bcff058c",
+    "index": 1087,
+    "maxPeople": 3,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": false,
+    "size": "1/4",
+    "location": "Gatineau",
+    "address": "292 Matthews Place, Clarksburg, Quebec, 8617",
+    "price": 1939,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eeb081e01be0ebada",
+    "index": 1088,
+    "maxPeople": 15,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Gatineau",
+    "address": "634 Pierrepont Street, Dunbar, Quebec, 2605",
+    "price": 626,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ea9ea670edca6a358",
+    "index": 1089,
+    "maxPeople": 7,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Gatineau",
+    "address": "634 Vanderveer Street, Groton, Quebec, 7501",
+    "price": 637,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e29123fd8fb5f4571",
+    "index": 1090,
+    "maxPeople": 5,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/4",
+    "location": "Mont-Tremblant",
+    "address": "332 Malta Street, Churchill, Quebec, 1720",
+    "price": 1863,
+    "amenities": [
+      [
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066eb93653d24b3fc2fb",
+    "index": 1091,
+    "maxPeople": 14,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "1/3",
+    "location": "Mont-Tremblant",
+    "address": "306 Calyer Street, Trona, Quebec, 4003",
+    "price": 2449,
+    "amenities": [
+      [
+        "Launromat",
+        "Fire Place"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e80a59a047d9033e2",
+    "index": 1092,
+    "maxPeople": 4,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "449 Columbia Street, Savage, Quebec, 5639",
+    "price": 1039,
+    "amenities": [
+      [
+        "Fire Place",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3670b0e1d11c0b36",
+    "index": 1093,
+    "maxPeople": 4,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "761 Mill Lane, Gila, Quebec, 463",
+    "price": 2114,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ",
+        "Outdoor parking"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e3d71d75e316994f7",
+    "index": 1094,
+    "maxPeople": 8,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "1/2",
+    "location": "Quebec City",
+    "address": "555 Whitney Avenue, Logan, Quebec, 9034",
+    "price": 796,
+    "amenities": [
+      [
+        "Outdoor parking",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e90a373470a406192",
+    "index": 1095,
+    "maxPeople": 9,
+    "allowSmoking": true,
+    "allowDogs": true,
+    "allowCats": false,
+    "allowPets": false,
+    "size": "2/5",
+    "location": "Quebec City",
+    "address": "713 Kenilworth Place, Navarre, Quebec, 6796",
+    "price": 1802,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e2b34e7f621aaa6f6",
+    "index": 1096,
+    "maxPeople": 6,
+    "allowSmoking": true,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Gatineau",
+    "address": "239 Knight Court, Homeland, Quebec, 4253",
+    "price": 518,
+    "amenities": [
+      [
+        "BBQ",
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066e8b79fed88ca539e3",
+    "index": 1097,
+    "maxPeople": 13,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": false,
+    "allowPets": true,
+    "size": "2/5",
+    "location": "Magog",
+    "address": "775 Fair Street, Clara, Quebec, 3898",
+    "price": 1908,
+    "amenities": [
+      [
+        "Fire Place",
+        "BBQ",
+        "Outdoor parking",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ef7e483e1b484b196",
+    "index": 1098,
+    "maxPeople": 3,
+    "allowSmoking": false,
+    "allowDogs": true,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Quebec City",
+    "address": "928 Varet Street, Hollymead, Quebec, 2993",
+    "price": 1471,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  },
+  {
+    "_id": "5bfe066ef5846b0cf20b4872",
+    "index": 1099,
+    "maxPeople": 6,
+    "allowSmoking": false,
+    "allowDogs": false,
+    "allowCats": true,
+    "allowPets": true,
+    "size": "1/3",
+    "location": "Magog",
+    "address": "626 Bridgewater Street, Hinsdale, Quebec, 8924",
+    "price": 1520,
+    "amenities": [
+      [
+        "Fire Place",
+        "Launromat",
+        "BBQ"
+      ]
+    ],
+    "image": "https://picsum.photos/200/?blur=&random="
+  }
+]

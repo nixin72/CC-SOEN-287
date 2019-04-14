@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment 3 - Question 1</title>
+
+    <script src="scripts/ConsequentCharacter.js"></script>
+    <link href="./css/question1.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Question 1</h1>
+    <form>
+        <div>
+            <label label-for="searchString">Enter your text here:</label>
+            <br />
+            <textarea 
+                id="searchString" 
+                name="search-string" 
+                rows="4" 
+                cols="55" 
+                placeholder="Enter text here..."></textarea>
+        </div>
+        <div>
+            <label label-for="characters">Enter a character you want to search for:</label>
+            <div>
+                <input type="text" name="characters" id="characters" size="5"/>
+                <input type="button" name="search" id="searchButton" value="Search"/>
+                <input type="button" name="startOver" id="startOver" value="Reset"/>
+            </div>
+        </div>
+        <div id="div_result">
+            <label label-for="result">Results:</label>
+            <div id="result"></div>
+        </div>
+    </form>
+</body>
+</html>

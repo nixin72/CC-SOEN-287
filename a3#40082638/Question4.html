@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment 3 - Question 4</title>
+    
+    <link rel="stylesheet" type="text/css" href="./css/Question4.css" />
+    <script src="./scripts/Question4.js"></script>
+</head>
+<body>
+	<div id="container">
+		<h2>Order Your Food Online</h2>
+		<form action="" id="frm">
+			<fieldset>
+				<table border="0">
+					<tr>
+						<th>Item</th>
+						<th>Quantity</th>
+						<th>Price</th>
+					</tr>
+					<tr>
+						<td>Pizza</td>
+						<td><input type="text" size="3" id="pizza" /></td>
+						<td>$19.5</td>
+					</tr>
+					<tr>
+						<td>burger</td>
+						<td><input type="text" size="3" id="burger" /></td>
+						<td>$15.5</td>
+					</tr>
+					<tr>
+						<td>Salad</td>
+						<td><input type="text" size="3" id="salad" /></td>
+						<td>$10.00</td>
+					</tr>
+					<tr>
+						<td>Soup</td>
+						<td><input type="text" size="3" id="soup" /></td>
+						<td>$5.00</td>
+					</tr>
+				</table>
+				<br /><br />
+				
+				<input type="submit" value="Place Order" id="sub"/>
+			</fieldset>
+		</form>
+	</div> 
+    <br />
+    <div id="bill">
+    	<div>
+    		<label>
+    			Pizza (Quantity = <span class="out" id="q_pizza">0</span>)
+   			</label>: 
+   			<span class="out" id="p_pizza">0</span>
+    	</div>
+    	<div>
+    		<label>
+    			Burger (Quantity = <span class="out" id="q_burger">0</span>)
+   			</label>: 
+   			<span class="out" id="p_burger">0</span>
+    	</div>
+    	<div>
+    		<label>
+    			Salad (Quantity = <span class="out" id="q_salad">0</span>)
+   			</label>: 
+   			<span class="out" id="p_salad">0</span>
+    	</div>
+    	<div>
+    		<label>
+    			Soup (Quantity = <span class="out" id="q_soup">0</span>)
+   			</label>: 
+   			<span class="out" id="p_soup">0</span>
+    	</div>
+    	<br />
+    	<div>
+    		<label>Final Total: </label><span id="total">0</span>
+    	</div>
+    </div>
+</body>
+</html>

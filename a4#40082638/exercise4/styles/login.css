@@ -1,0 +1,16 @@
+section.login {
+    width: 60%;
+    margin: 5% auto;
+}
+
+section.login input{
+    margin: 1% 0;
+    padding: 5px;
+    border-radius: 2px;
+    border: thin solid grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section.login input[type=password] {
+    letter-spacing: 1px;
+}

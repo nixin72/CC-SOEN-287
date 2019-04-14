@@ -1,0 +1,22 @@
+body {
+	color: mediumblue;
+	background: lightsteelblue;
+}
+
+form {
+	width: 540px;
+	border: thin solid red;
+	padding: 10px;
+}
+
+fieldset {
+	border: none;
+}
+
+#bill {
+	display: none;
+}
+
+#bill label {
+	font-weight: bold;
+}

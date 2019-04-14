@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment 02 - Question 4</title>
+    <script>
+        /*
+            Input: Array<String> names
+            Output: int indicating the number of names matching the pattern.
+
+            Purpose:
+                Count the number of names in the input list that match the specified
+                patterns.
+        */
+        function Patternmatch(names) {
+            let count = 0;
+            for (let name of names) {
+                if (name.includes("a") && name.search(/(ly|ne)$/) != -1) {
+                    count++;
+                }
+            }
+
+            return count;
+        }
+
+        /*
+            Writing this using JavaScript Array.filter method is much more elegant 
+            than looping through the list and incrementing a counter yourself. 
+            
+            Using RegEx.test because it returns a boolean value as opposed to an index,
+            which is more readable than checking against -1 as a false.
+
+            The performance is slightly worse, but it's not worth the micro-optimization
+            for the increased readability. 
+        */
+        function Patternmatch2(names) {
+            return names
+                .filter(n => /\w*a\w*(ly|ne)$/i.test(n))
+                .length;
+        }       
+
+        function Pattermatch3(names) {
+            return names
+                .reduce((a, n) => a += /\w*a\w*(ly|ne)$/i.test(n) ? 1 : 0);
+        } 
+
+        Array.prototype.count = function(...args) {
+            if (args.length == 0) {
+                return this.length;
+            }
+            else {
+                let regs = [];
+                let cbs = [];
+
+                for (let arg of args) {
+                    if (typeof arg == "string" || arg instanceof RegExp) {
+                        if (typeof arg == "string") {
+                            arg = new RegExp(arg);
+                        }
+
+                        regs.push(arg);
+                    }
+                    else if (typeof arg == "function") {
+                        cbs.push(arg);
+                    }
+                }   
+
+                let count = 0;
+                for (let el of this) {
+                    let match = true;
+
+                    for (let cb of cbs) {
+                        if (!cb(el)) {
+                            match = false;
+                            break;
+                        }
+                    }
+
+                    if (!match) 
+                        continue;
+
+                    for (let reg of regs) {
+                        if (!reg.test(el)) {
+                            match = false;
+                            break;
+                        }
+                    }
+
+                    if (match) 
+                        count++;
+                }
+
+                return count;        
+            }
+        }
+        
+    </script>
+    <style>
+        pre {
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+    <div id="results">
+        The number of names having these two patterns 
+        (<pre>/ne$/i</pre>) and (<pre>/ly$/i</pre>) and at least one character a, in the array is:
+        <span id="matches"></span>
+    </div>
+
+    <script>
+        (function main() {
+            const names = new Array("bradly", "anna", "john", "sherly", "adriane");
+            
+            let _p1 = /(ly|ne)$/i;
+            let _p2 = /a/i;
+            let _matches = Patternmatch(names);   
+            let _matches2 = names.count(_p1, _p2); 
+
+            matches.innerText = _matches2;
+        })();  
+
+        function test(names) {
+            let fns = [Patternmatch, Patternmatch_alt];
+            let results = {};
+            fns.forEach(cb => {
+                results[cb.name] = [];
+                [...Array(100).keys()].forEach(i => {
+                    results[cb.name].push(testPerformance(names, cb));
+                });
+            })
+
+            Object.keys(results).forEach(el => {
+                return results[el] = results[el].reduce((a, i) => a+= i, 0) / results[el].length;
+            });
+            console.log(results);
+
+            function testPerformance(names, callback) {
+                let start = window.performance.now();
+
+                [...Array(100000).keys()].forEach(e => callback(names));
+
+                let end = window.performance.now();
+
+                return end-start;
+            }
+        };  
+    </script>
+
+
+</body>
+</html>

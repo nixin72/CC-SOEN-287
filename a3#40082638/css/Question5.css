@@ -1,0 +1,35 @@
+#header {
+    display: flex;
+    align-items:center;
+}
+
+#expert_suggestion {
+    display: none;
+}
+
+.prompt { font-weight: bold; }
+
+body { background: #EEE; }
+
+fieldset:nth-child(1) legend { color: rgb(20, 161, 20); }
+fieldset:nth-child(1) { 
+    border-color: rgb(20, 161, 20); 
+    background: rgba(23, 161, 23, 0.267);
+}
+
+fieldset:nth-child(2) legend { color: rgb(31, 63, 245); }
+fieldset:nth-child(2) { 
+    border-color: rgb(31, 63, 245); 
+    background: rgba(31, 63, 245, 0.267);
+}
+
+legend { 
+    font-size: 1.3em; 
+    font-weight: bold;
+}
+
+fieldset { 
+    border: 2px solid; 
+    border-radius: 3px;
+    color: black;
+}
